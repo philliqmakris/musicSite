@@ -1,0 +1,222 @@
+/* #row1 {
+    background-color: rgb(36, 36, 36);
+    color: rgb(255, 208, 0);
+    padding-left: 12px;
+} */
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-image: url("http://sfwallpaper.com/images/music-production-wallpaper-4.jpg");
+    background-size: cover;
+    color: rgb(235, 235, 235);
+}
+
+.logo {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    padding-left: 10px;
+    color: rgb(255, 208, 0);
+    padding-top: 10px;
+}
+
+
+
+#contt {
+    background-color: rgb(36, 36, 36);
+    margin-top: 20px;
+    
+}
+
+.welcome {
+    text-align: center;
+    padding-top: 8px;
+    color: rgb(235, 235, 235);
+    font-size: 22px;
+    
+
+}
+
+.mix {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.card {
+    margin: 15px;
+    background-color: rgb(36, 36, 36);
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+#header {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 208, 0);
+    
+}
+
+.card-title {
+    color: rgb(255, 208, 0);
+    font-size: 45px;
+    font-family: 'Audiowide', cursive;
+}
+
+#newsPic {
+    height: 318px;
+}
+
+.navbar {
+    background-color: rgb(36, 36, 36);
+    color: rgb(255, 208, 0);
+}
+
+.bf {
+    font-family: 'Audiowide', cursive;
+}
+
+footer {
+    text-align: center;
+    position: center;
+    color: white;
+}
+
+h3 {
+    color: rgb(228, 228, 228);
+    font-size: 26px;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+#signIn {
+    padding-top: 25px;
+    font-family: 'Audiowide', cursive;
+}
+
+.cards {
+    background-image: url("https://notenoughdata.files.wordpress.com/2012/11/opera_background_speaker_wallpaper_dump-s1920x1200-210084-e1315944568221.jpg");
+    background-size: contain;
+    border: solid;
+    border-color: black;
+    border-block-end-width: thick;
+    
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.363);
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+/* #head {
+    background-color: rgba(0, 0, 0, 0.815);
+   
+} */
+
+#begButton {
+    height: 150px;
+    width: 1000px;
+    background-color:rgb(255, 208, 0); 
+    font-family: 'Audiowide', cursive;
+    font-size: 80px;
+    position: center;
+    text-align: center;
+    padding-left: 50px;
+    border: solid;
+    border-color: rgb(241, 241, 241);
+    
+}
+
+#buttonCont {
+    
+    background-size: cover;
+    padding: 50px;
+}
+
+.begButtText {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+#begButton2 {
+    height: 150px;
+    width: 1000px;
+    background-color:rgb(255, 208, 0); 
+    font-family: 'Audiowide', cursive;
+    font-size: 70px;
+    position: center;
+    text-align: center;
+    padding-left: 50px;
+    border: solid;
+    border-color: rgb(241, 241, 241);
+    
+}
+
+#buttonGroupCont {
+    background-color: rgba(0, 0, 0, 0.904);
+    padding: 50px;
+    border: solid;
+    border-color: rgb(236, 236, 236);
+    border-radius:.55rem!important
+}
+
+hr {
+    background-color: white;
+}
+
+#table {
+    background-color: rgba(0, 0, 0, 0.87);
+    padding: 15px;
+    border-radius: 10px;
+    /* border-left: solid;
+    border-right: solid; */
+}
+
+#leftSide {
+    border-right: solid;
+}
+
+#table2 {
+    
+}
+
+.intro {
+    font-size: 20px;
+}
+
+.projectTitle {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(255, 208, 0);
+}
+
+.aboutMe {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(255, 208, 0);
+}
+
+#footCont {
+    background-color: rgba(0, 0, 0, 0.904);
+}
+
+.display-4 {
+    color: rgb(238, 238, 238);
+    font-size: 20px;
+}
+
+.btn {
+    position: center;
+    text-align: center;
+    
+    
+    background-color: rgb(0, 0, 0);
+    
+    font-family: 'Audiowide', cursive;
+    border: solid;
+    border-color: white;
+}
+
+
+
+
